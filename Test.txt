@@ -1,3 +1,4 @@
 Helo,
 Welcome to my GIT Tutorial
 This tutorial will provide a step-by-step guide to learning GIT
+We will learn the git add, commit, and push commands
